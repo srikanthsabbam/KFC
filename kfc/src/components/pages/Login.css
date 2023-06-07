@@ -1,0 +1,67 @@
+.step1{
+    /* align-items: center; */
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    text-decoration:solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: larger;
+}
+.img{
+    position: relative;
+    left: 620px;
+    top: 60px;
+    width: 100px;
+}
+
+.step2{
+    /* align-items: center; */
+    position: relative;
+    left: 400px;
+    top: 120px;
+    text-decoration:solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-size:x-large;
+}
+.step3{
+    position: absolute;
+    left: 500px;
+    top: 320px;
+    width: 450px;
+    color:black;
+}
+.step4{
+    position: absolute;
+    left: 500px;
+    top: 360px;
+    width: 450px;
+    color:darkgrey;
+}
+.btn1{
+    position: absolute;
+    left: 600px;
+    top: 450px;
+    width: 180px;
+    color:white;
+    background-color: black;
+    border-radius: 40px;
+    border: 1px solid black;
+    
+}
+.or{
+    position: absolute;
+    left: 540px;
+    top: 520px;
+    width: 450px;
+}
+.final{
+    position: absolute;
+    left: 500px;
+    top: 580px;
+    width: 450px;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}

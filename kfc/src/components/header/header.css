@@ -1,0 +1,33 @@
+.headerContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+
+}
+.img1{
+    margin-left: 100px;
+}
+.nav-link a{
+    text-decoration: none;
+    color: black;
+}
+.nav-link a:hover{
+    text-decoration: none;
+    color: red;
+}
+.body{
+    /* display: flex; */
+    /* flex-direction: row; */
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    /* flex: 80%; */
+    display: grid;
+    /* grid-template-rows: 20% 5% 10% 60% 20%; */
+    /* grid-template-columns: 20% 10% 10% 60% 20%; */
+    width: 1200px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
