@@ -1,0 +1,30 @@
+.dealsimg1{
+    width: 100%;
+}
+.deals1{
+    position: absolute;
+    top: 420px;
+    left: 200px;
+    font-size:xx-large;
+    font-weight: 800;
+}
+.deals2{
+    position: relative;
+    top: 50px;
+    left: 1100px;
+}
+.dealimgs{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    margin-top: 100px;
+    margin-left: 160px;
+}
+.dealsimg2{
+    width: 400px;
+}
+.dealsimg3{
+    width: 400px;
+}
+.dealsimg4{
+    width: 400px;
+}
